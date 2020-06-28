@@ -1,0 +1,81 @@
+body {
+	font: 15px Tahoma, sans-serif;
+	background-color: #7FDBFF;
+	padding: 4px;
+	margin: 10px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 50%;
+}
+
+table, th, td {
+	border: 2px solid black;
+}
+
+th {
+	color: white;
+	background-color: #3d5159;
+}
+
+h1 {
+	font-size: 40px;
+	color: #3d3b6b;
+}
+
+h3 {
+	font-size: 30px;
+	color: #332e9e;
+	padding: 20px 0px 0px 0px;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+}
+
+.jumbotron {
+  text-align: center;
+  padding: 5px 5px 5px 5px;
+  height: 10px;
+  padding-top: 10px !important;
+}
+
+.first {
+	margin-left: 16px;
+}
+
+.navbar {
+	margin-bottom: 20px;
+}
+
+.card {
+	width: 15rem;
+}
+
+.card-body {
+	background-color: #39CCCC ;
+}
+
+.header1 {
+	margin-top: 12px;
+}
+
+.card2 {
+	width: 100rem;
+}
+
+.form-group {
+	margin-top: 10px;
+}
+
+form {
+	padding-top: 20px;
+}
+
+.btn {
+	margin-top: 12px;
+}
+
+
